@@ -1,8 +1,8 @@
 # Durante Technologies
 
-**We build our own products. That's why we're good at building yours.**
+**Durante works alongside you and the people who matter to you to turn what you want to accomplish into real results.**
 
-Durante builds and runs AI agent systems that do named business jobs, under human approval, with proof of what changed. Agents propose and execute; final judgment always belongs to a person.
+Your own AI assistant. Your people. Support that carries agreed work through to delivery. By invitation.
 
 **What we build**, one honest claim per product, with its real state next to it:
 
